@@ -45,6 +45,30 @@
     </ul>
   </div>
 </nav>
-    
+    <div class="card-group">
+        <div class="card">
+            <img class="card-img-top" src="https://www.pcfactory.cl/public/foto/20448/1_500.jpg?t=1510011785" >
+        </div>
+    <div class="card" style="width: 18rem;">
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">Gigabyte® Video AMD Radeon R5 230 1GB GDDR3</li>
+            <li class="list-group-item">$XXX.XXX</li>
+            <li class="list-group-item">Disponibilidad: 01</li>
+            <li class="list-group-item">Cantidad<input type="text" placeholder="00" name="txtCantidad" width="10"></li>
+            <li class="list-group-item"><a href="" class="btn btn-primary">Comprar</a></li>
+        </ul>
+    </div>
+    </div>
+    <div class="card" style="width: 18rem;"> 
+        <div class="card-header">
+            Caracteristicas
+        </div>
+        <div class="card-body">
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item"> c1</li>
+                <li class="list-group-item">c2</li>
+            </ul>
+        </div>
+    </div>
     </body>
 </html>

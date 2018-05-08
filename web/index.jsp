@@ -56,7 +56,7 @@
       <h5 class="card-title">Gigabyte® Video AMD Radeon R5 230 1GB GDDR3</h5>
       <h3 class="card-title font-weigh-bold">$ 32.990</h3>
       <p class="card-text">La tarjeta de video R5 230 1GB con Boost tiene ahora la última memoria DDR3 frecuencia de reloj de 1066 MHz efectivos, y funciona con una velocidad de reloj de núcleo de 625 MHz. </p>
-      <a href="#" class="btn btn-primary">Leer mas</a>
+      <a href="Producto.jsp" class="btn btn-primary">Leer mas</a>
     </div>
   </div>
   <div class="card text-white bg-success mb-3">
