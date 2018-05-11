@@ -1,3 +1,4 @@
+# Grupo_Venta_Partes_Computador
 <%-- 
     Document   : index
     Created on : 23-04-2018, 20:59:56
@@ -12,7 +13,6 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
         <title>Pc Builder</title>
-    </head>
     <body>
         <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
@@ -56,7 +56,7 @@
       <h5 class="card-title">Gigabyte® Video AMD Radeon R5 230 1GB GDDR3</h5>
       <h3 class="card-title font-weigh-bold">$ 32.990</h3>
       <p class="card-text">La tarjeta de video R5 230 1GB con Boost tiene ahora la última memoria DDR3 frecuencia de reloj de 1066 MHz efectivos, y funciona con una velocidad de reloj de núcleo de 625 MHz. </p>
-      <a href="#" class="btn btn-primary">Leer mas</a>
+      <a href="Producto.jsp" class="btn btn-primary">Leer mas</a>
     </div>
   </div>
   <div class="card text-white bg-success mb-3">
@@ -117,7 +117,25 @@
 </div>
     
     <footer>
-        Hola Hola
+        <div class="footer-container">
+          <div class="footer-columna">
+            <h6>Mas de nosotros:</h6>
+            <p>El fin de esta pagina es de ayudar al cliente en la busqueda de productos para el ensamblaje de sistemas operativos, de la forma mas eficaz y economica.</p>
+            <p>Ante cualquier duda o problema, puede contactar con nuestro personal de soporte tecnico por:</p>
+            <p>Correo: pc.builder2018@gmail.com</p>
+          </div>  
+
+        <div class="footer-columna">
+            <h6>Direccion: Las Violetas 171 - Coyhaique - Chile</h6>
+          </div> 
+        
+        <div class="footer-columna">
+            <h6>Telèfono: +56 9 68127369</h6>
+          </div>      
+            <div class="footer-copy">
+               &copy; 2018, Todos los derechos reservados - \PCBUILDER\
+            </div>
+           
     </footer>
     </body>
 </html>
