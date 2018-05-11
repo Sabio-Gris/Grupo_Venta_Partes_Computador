@@ -46,7 +46,7 @@
   </div>
 </nav>
     <div class="card-group">
-        <div class="card">
+        <div class="card" style="width: 1500rem">
             <img class="card-img-top" src="https://www.pcfactory.cl/public/foto/20448/1_500.jpg?t=1510011785" >
         </div>
     <div class="card" style="width: 18rem;">
